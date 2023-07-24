@@ -1,0 +1,14 @@
+.styles {
+  background-color: rgb(230, 230, 230);
+  padding: 8px;
+  text-align: center;
+}
+
+div h1 {
+  text-decoration: underline;
+}
+
+div p {
+  color: blue;
+  font-weight: bold;
+}
