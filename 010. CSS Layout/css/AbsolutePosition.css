@@ -1,0 +1,17 @@
+/* absolute position is used to place an element at a particular spot on the screen. */
+a {
+    background-color: #FDEFDF;
+    position: absolute;
+    right: 0px;
+    top: 30px;
+}
+
+#now {
+    background-color: #FDEFDF;
+    position: absolute;
+    top: 60px;
+}
+
+img {
+    width: 300px;
+}

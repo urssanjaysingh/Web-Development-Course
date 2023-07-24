@@ -1,0 +1,14 @@
+a {
+    display: inline;
+    width: 3000px;
+    border: solid 3px black;
+}
+
+p {
+    display: block;
+    border: solid 2px black;
+}
+
+button {
+    display: inline-block;
+}

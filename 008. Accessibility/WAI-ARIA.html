@@ -1,0 +1,39 @@
+<!-- WAI-ARIA stands for Web Accessibility Initiative-Accessible Rich Internet Applications 
+    and it's a specification for accessibility standards.
+
+>>  We'll find code that uses generic elements like div. In these case, we can improve accessibility
+    with the role attributes. 
+    <div role="button">Submit</div> 
+    role attribute help to attach meaning to elements.
+
+>>  The "img" role identify these images as a single image.
+    <div role="img">
+        <img src="image1.png">
+        <img src="image2.png">
+    </div>
+
+>>  The "comment" role implies a reaction to some content.
+    <div role="comment">
+        <h3>Chris said</h3>
+        <p>I think the last comment could be better written.</p>
+        <p>March 21 2019, 11:30</p>
+    </div>
+
+>>  The "contentinfo" role indicates that there's a footer at the end of the page. 
+    It contains copyright, contact, or privacy information.
+    <div role="contentinfo">All Rights Reserved.</div>
+
+>>  The "alert" role warns users about events or changes in content.
+    <div role="alert">Your session will expire in 60 seconds.</div>
+
+>>  Sometimes, we include visually attractive content that might distract screen readers. 
+    In these cases, we can use the aria-hidden attribute. It'll hide content to assistive technologies,
+    but it will still be visible on the page.
+    <p aria-hidden>This element needs to be hidden from screen readers.</p>
+    When screen readers go over elements with the attribute aria-hidden, 
+    they won't read their content to the user.
+    We must not use aria-hidden in interactive elements, such as buttons or links, because users
+    won't be able to interact with them. 
+
+>>  When we code the semantic tag for an element, we do not need the role attribute.
+-->

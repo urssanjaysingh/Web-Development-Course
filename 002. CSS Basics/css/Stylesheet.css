@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+.gray-element {
+    background-color: lightgray;
+}
+
+button {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+.text {
+    font-style: italic;
+}
+
+#capital-letter {
+    color: blue;
+}

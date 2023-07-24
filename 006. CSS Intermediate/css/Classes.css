@@ -1,0 +1,18 @@
+.throne-successor {
+    color: gold;
+}
+
+div {
+    border: solid 3px lightgray;
+    color: brown;
+}
+
+.headline {
+    background-color: orange;
+    padding: 10px;
+}
+
+.main-story {
+    border: solid 3px darkgreen;
+    padding: 20px;
+}

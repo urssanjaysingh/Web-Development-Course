@@ -1,0 +1,24 @@
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.flat {
+    height: 50px;
+    width: 100px;
+}
+
+.round {
+    height: 100px;
+    width: 100px;
+}
+
+.medium {
+    width: 300px;
+    background-color: red;
+}
+
+.small {
+    width: 150px;
+    background-color: pink;
+}

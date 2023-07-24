@@ -1,0 +1,46 @@
+.red {
+    background-color: #FF0000;
+}
+
+.green {
+    background-color: #00FF00;
+}
+
+.blue {
+    background-color: #0000FF;
+}
+
+button {
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.gradient1 {
+    background: linear-gradient(to right, #EE9CA7, #FFDDE1);
+}
+
+.gradient2 {
+    background: linear-gradient(to right, #2193B0, #6DD5ED);
+}
+
+.gradient3 {
+    background: linear-gradient(90deg, #004161, #E4E5E6);
+}
+
+.gradient4 {
+    background: linear-gradient(90deg, #334D50, #CBCAA5);
+}
+
+h1 {
+    border-radius: 20px;
+    border: solid 4px white;
+    padding: 20px;
+}
+
+body {
+    color: white;
+    text-align: center;
+    background-color: crimson;
+}

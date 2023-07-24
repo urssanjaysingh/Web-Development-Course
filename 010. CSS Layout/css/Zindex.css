@@ -1,0 +1,45 @@
+img {
+    width: 300px;
+    position: absolute;
+    z-index: -1;
+}
+
+h1 {
+    color: #FF6042;
+}
+
+.forest {
+    position: absolute;
+    width: 200px;
+    right: 0px;
+}
+
+.logo {
+    position: absolute;
+    z-index: 1;
+    width: 50px;
+    right: 0px;
+}
+
+.third-photo {
+    position: absolute;
+    z-index: 2;
+    width: 150px;
+    top: 250px;
+    left: 150px;
+}
+
+.second-photo {
+    position: absolute;
+    z-index: 1;
+    width: 150px;
+    top: 370px;
+    left: 60px;
+}
+
+.first-photo {
+    position: absolute;
+    z-index: 1;
+    width: 150px;
+    top: 250px;
+}

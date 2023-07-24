@@ -1,0 +1,24 @@
+.coupon {
+    border: solid;
+}
+
+.title {
+    border: solid 10px;
+}
+
+.caution {
+    border: solid 10px red;
+}
+
+p {
+    border-radius: 10px;
+    background-color: lightblue;
+    border: solid;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border: solid 5px black;
+}

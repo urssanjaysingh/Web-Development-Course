@@ -1,0 +1,16 @@
+p {
+    background-color: #EDBAA6;
+}
+
+/* When we set position to relative, we change an element's position in relation to 
+its original position in normal flow. */
+strong {
+    position: relative;
+    top: 15px;
+}
+
+em {
+    background-color: #FFECD2;
+    position: relative;
+    left: 30px;
+}
