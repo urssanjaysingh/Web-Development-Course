@@ -1,0 +1,16 @@
+/* the values on the left of the slash are rows
+and the ones on the right are columns. */
+.grid-container {
+    display: grid;
+    grid-template: 1fr 1fr 1fr / 1fr 1fr;
+    background-color: #E0F6FF;
+    border: 1px dashed #1E96FF;
+}
+
+.grid-item {
+    background-color: #1E96FF;
+    color: #FFF;
+    text-align: center;
+    margin: 2px;
+    padding: 10px;
+}

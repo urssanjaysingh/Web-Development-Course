@@ -1,0 +1,22 @@
+/* default:
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+
+Shorthand:
+    flex: 0 1 auto;    */
+
+.one {
+    flex: 2 0 75px;
+    background-color: #FF97A1;
+}
+
+.two {
+    flex: 1 1 75px;
+    background-color: #FFC86E;
+}
+
+.container {
+    border: solid 1px #D37947;
+    display: flex;
+}

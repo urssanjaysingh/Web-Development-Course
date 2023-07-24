@@ -1,0 +1,23 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    background-color: #E0F6FF;
+}
+
+.item-1 {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+.item-2 {
+    grid-column: span 1;
+    grid-row: span 2;
+}
+
+.grid-item {
+    background-color: #1E96FF;
+    color: #FFF;
+    padding: 20px;
+    margin: 5px;
+}

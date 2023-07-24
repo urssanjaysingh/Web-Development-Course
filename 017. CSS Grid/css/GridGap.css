@@ -1,0 +1,19 @@
+/*  row-gap: 5px;
+    column-gap: 10px;
+gap shorthand:
+    gap: 5px 10px;   */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    background-color: #E0F6FF;
+    gap: 5px 10px;
+}
+
+.grid-item {
+    background-color: #1E96FF;
+    color: #FFF;
+    text-align: center;
+    padding: 15px;
+}
+

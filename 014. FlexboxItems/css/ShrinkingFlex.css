@@ -1,0 +1,24 @@
+.one {
+    flex-shrink: 1;
+    background-color: #FF97A1;
+}
+
+.two {
+    flex-shrink: 2;
+    background-color: #FFC86E;
+}
+
+.three {
+    flex-shrink: 3;
+    background-color: #BFDAF9;
+}
+
+.item {
+    flex-basis: 200px;
+}
+
+.container {
+    border: solid 1px #D37947;
+    display: flex;
+    width: 250px;
+}

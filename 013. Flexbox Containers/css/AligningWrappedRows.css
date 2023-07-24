@@ -1,0 +1,13 @@
+.container {
+    border: solid 2px #806868;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.item {
+    background-color: #FF97A1;
+    width: 20%;
+    margin: 1px;
+}

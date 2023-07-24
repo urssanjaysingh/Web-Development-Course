@@ -1,0 +1,16 @@
+/* repeat(3, 1fr) means 3 column of 1fr each. */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: #E0F6FF;
+    border: 1px dashed #1E96FF; 
+}
+
+.grid-item {
+    background-color: #1E96FF;
+    color: #FFF;
+    text-align: center;
+    margin: 2px;
+    padding: 10px;
+}
+

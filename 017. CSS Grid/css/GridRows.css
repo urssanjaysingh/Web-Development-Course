@@ -1,0 +1,14 @@
+.grid-container {
+    display: grid;
+    grid-template-rows: repeat(3, 40px);
+    background-color: #E0F6FF;
+    border: 1px dashed #1E96FF;
+}
+
+.grid-item {
+    background-color: #1E96FF;
+    color: #FFF;
+    text-align: center;
+    padding-top: 10px;
+    margin: 2px;
+}

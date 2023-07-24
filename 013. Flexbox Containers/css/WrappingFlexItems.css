@@ -1,0 +1,11 @@
+.container {
+    border: 3px solid #806868;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    border: 3px solid #457081;
+    margin: 20px;
+}

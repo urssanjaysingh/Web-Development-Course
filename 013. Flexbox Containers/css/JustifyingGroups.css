@@ -1,0 +1,12 @@
+.container1 {
+    border: solid 2px #806868;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.item {
+    border: 2px solid #457081;
+    margin: 10px;
+}

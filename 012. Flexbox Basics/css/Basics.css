@@ -1,0 +1,19 @@
+.container1 {
+    border: solid 2px #806868;
+    display: flex;
+}
+
+.container2 {
+    border: solid 2px #806868;
+    display: flex;
+}
+
+.container3 {
+    border: 2px solid #806868;
+    display: flex;
+}
+
+.item {
+    border: 2px solid #457081;
+    margin: 10px;
+}

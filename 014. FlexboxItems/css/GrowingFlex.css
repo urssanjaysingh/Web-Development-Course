@@ -1,0 +1,19 @@
+.one {
+    flex-grow: 1;
+    background-color: #FF97A1;
+}
+
+.two {
+    flex-grow: 1;
+    background-color: #FFC86E;
+}
+
+.three {
+    flex-grow: 1;
+    background-color: #BFDAF9;
+}
+
+.container {
+    border: solid 1px #D37947;
+    display: flex;
+}

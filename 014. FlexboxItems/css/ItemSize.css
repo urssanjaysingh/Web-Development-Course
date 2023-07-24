@@ -1,0 +1,17 @@
+.one {
+    flex-basis: 100px;
+    background-color: #FF97A1;
+}
+
+.two {
+    background-color: #FFC86E;
+}
+
+.container {
+    border: solid 1px #D37947;
+    display: flex;
+}
+
+.item {
+    text-align: center;
+}

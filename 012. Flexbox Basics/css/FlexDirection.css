@@ -1,0 +1,11 @@
+.container1 {
+    border: solid 2px #806868;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.item {
+    border: 2px solid #457081;
+    margin: 10px;
+}
