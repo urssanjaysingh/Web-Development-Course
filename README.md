@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the Web Development Course - urssanjaysingh
 
 ## Overview
 
-This repository contains the source code and materials for the Web Development Course, covering HTML, CSS, JavaScript, Git version control, Node.js, Express.js, React, and MySQL database connection with Express.js.
+This repository contains the source code and materials for the Web Development Course, covering HTML, CSS, JavaScript, Git version control, Node.js, React, and MySQL database connection with Express.js.
 
 ## Getting Started
 
